@@ -1,4 +1,4 @@
-# hello i am klaus lets start python.
+# hello. I am klaus let's start python.
 print("hello world")
 # output: hello world
 
